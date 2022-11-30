@@ -1,3 +1,5 @@
+[![MasterHead](https://i.imgur.com/7hGs90W.png)](https://github.com/LeaderGRL)
+
 ### Hi there 👋
 
 <!--
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderGRL&layout=compact)](https://github.com/LeaderGRL/github-readme-stats)
 
-[![MasterHead](https://i.imgur.com/7hGs90W.png)](https://github.com/LeaderGRL)
