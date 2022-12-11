@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Leader's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeaderGRL&hide=stars&count_private=true&show_icons=true&theme=synthwave&count_private=true)](https://github.com/LeaderGRL/github-readme-stats) -->
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LeaderGRL&hide=stars&count_private=true&show_icons=true&theme=synthwave&count_private=true" alt="LeaderGRL" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderGRL&layout=compact)](https://github.com/LeaderGRL/github-readme-stats)
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderGRL&layout=compact" alt="LeaderGRL" />
 
