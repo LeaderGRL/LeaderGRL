@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/7hGs90W.png)](https://github.com/LeaderGRL)
 
 ### Hi there 👋
-I'm Leader, student in game development from ![fr](https://i.imgur.com/LL6vfhn.png =32x32) and mentor for bachelor student developer.
+I'm Leader, student in game development from ![fr](https://i.imgur.com/uYmlnEd.png) and mentor for bachelor student developer.
 <!--
 **LeaderGRL/LeaderGRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
