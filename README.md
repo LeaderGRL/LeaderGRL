@@ -1,3 +1,3 @@
-<div style="width:100%; height:0;padding-bottom:56%; position:relative;">
-  <div style="background-image: url('Leader.svg'); position:absolute; top:0; left:0; width:100%; height:100%;"></div>
-</div>
+<svg width="100%" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image xlink:href="Leader.svg" x="0" y="0" width="1000" height="500"/>
+</svg>
