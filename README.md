@@ -1,23 +1,75 @@
-[![MasterHead](https://i.imgur.com/7hGs90W.png)](https://github.com/LeaderGRL)
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
-### Hi there 👋
-I'm Leader, student in game development from ![fr](https://i.imgur.com/Q6XgWJo.png) and mentor for bachelor student developer.
-<!--
-**LeaderGRL/LeaderGRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
 
-Here are some ideas to get you started:
+        .container {
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          width: 100%;
+          height: 300px;
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LeaderGRL&hide=stars&count_private=true&show_icons=true&theme=synthwave&count_private=true" alt="LeaderGRL" />
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderGRL&layout=compact" alt="LeaderGRL" />
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Jordan <div class="hi">👋</div></h1>
+        <!-- A link around a shape -->
+        <a href="/docs/Web/SVG/Element/circle">
+          <circle cx="50" cy="40" r="35" />
+        </a>
+
+        <!-- A link around a text -->
+        <a href="/docs/Web/SVG/Element/text">
+          <text x="50" y="90" text-anchor="middle">&lt;circle&gt;</text>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
